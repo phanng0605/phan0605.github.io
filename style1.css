@@ -1,0 +1,18 @@
+html{
+    background-image: url("/images.png/cbh13.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.phan1 p{
+    width: 550px;
+    padding: 15px;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 25px;
+    font-weight: bolder;
+    border: 5px solid pink;
+    background-color: cornsilk ;
+}
