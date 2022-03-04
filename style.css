@@ -115,7 +115,7 @@ li a:hover{
 }
 
 .nut{
-    transform: translateX(300%);
+    transform: translateX(0%);
     width: 100px;
    float: right;
    margin-right: 50%;
@@ -194,16 +194,16 @@ p{
     transform: translateX(15%);
 } 
 .part1 img{
-transform: translateX(10%);
+transform: translateX(15%);
 }
 .part2 p{
-transform: translateX(197%);
+transform: translateX(15%);
 }
 .part2 img{
     transform: translateX(850px);
 }
 .part3 p{
-    transform: translateX(105%);
+    transform: translateX(15%);
 }
 .part3 img{
     transform: translateX(110%);
