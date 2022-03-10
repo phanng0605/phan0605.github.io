@@ -18,7 +18,7 @@ p{
 
 
 h1{
-    transform: translateX(100%);
+    transform: translateX(110%);
    width: 550px;
     padding: 15px;
     text-align: center;
@@ -115,7 +115,7 @@ li a:hover{
 }
 
 .nut{
-    transform: translateX(10%);
+    transform: translateX(40%);
     width: 100px;
    float: right;
    margin-right: 50%;
@@ -130,7 +130,7 @@ li a:hover{
     background-color: pink;
     color: aliceblue;
     font-weight: bolder;
-   transform: translateX(100%);
+   transform: translateX(150%);
 }
 #icon{
     width: 400px;
@@ -191,22 +191,22 @@ p{
 
 }
 .part1 p{
-    transform: translateX(100%);
+    transform: translateX(150%);
 } 
 .part1 img{
-transform: translateX(100%);
+transform: translateX(150%);
 }
 .part2 p{
-transform: translateX(100%);
+transform: translateX(150%);
 }
 .part2 img{
     transform: translateX(850px);
 }
 .part3 p{
-    transform: translateX(100%);
+    transform: translateX(150%);
 }
 .part3 img{
-    transform: translateX(110%);
+    transform: translateX(150%);
 }
 
 
