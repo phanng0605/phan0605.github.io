@@ -138,7 +138,7 @@ li a:hover{
 }
 
 .content button{
-    transform: translateX(170%);
+    transform: translateX(140%);
     width: 400px;
     padding: 15px 0;
     text-align: center;
@@ -191,22 +191,22 @@ p{
 
 }
 .part1 p{
-    transform: translateX(150%);
+    transform: translateX(100%);
 } 
 .part1 img{
-transform: translateX(150%);
+transform: translateX(100%);
 }
 .part2 p{
-transform: translateX(150%);
+transform: translateX(100%);
 }
 .part2 img{
     transform: translateX(850px);
 }
 .part3 p{
-    transform: translateX(150%);
+    transform: translateX(100%);
 }
 .part3 img{
-    transform: translateX(150%);
+    transform: translateX(100%);
 }
 
 
