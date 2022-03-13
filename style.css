@@ -115,7 +115,7 @@ li a:hover{
 }
 
 .nut{
-    transform: translateX(50%);
+    transform: translateX(30%);
     width: 100px;
    float: right;
    margin-right: 40%;
@@ -130,7 +130,7 @@ li a:hover{
     background-color: pink;
     color: aliceblue;
     font-weight: bolder;
-   transform: translateX(30%);
+   transform: translateX(10%);
 }
 #icon{
     width: 400px;
@@ -203,7 +203,7 @@ transform: translateX(104%);
     transform: translateX(850px);
 }
 .part3 p{
-    transform: translateX(140%);
+    transform: translateX(104%);
 }
 .part3 img{
     transform: translateX(104%);
